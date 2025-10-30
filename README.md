@@ -72,15 +72,6 @@ After running the script:
  Saved: resized_images/img1.jpg
  Saved: resized_images/img2.jpg
  All images resized successfully!
-```
 
----
 
-### 📚 **Future Improvements**
-
-* Maintain original aspect ratio using `thumbnail()`.
-* Add command-line arguments for size and format.
-* Add image compression support.
-
----
 
